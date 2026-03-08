@@ -1,7 +1,7 @@
 # A simple way to make transponder file to Gpredict
 
 I got tired of writing together transponders in notepad++ files and automating parts of it, so I created this program whit some help from AI.
-I made a EXE file for easy use, but if you alredy have Python installed you can just run my Python code it in a terminal.
+I made a EXE file for easy use, but if you alredy have Python installed you can just run the Python code it in a terminal.
 
 ## How it works
 Quite simple, you enter the data you have access to and then you press save .trsp file, and voila, you have a ready transponder file!
