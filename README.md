@@ -8,7 +8,8 @@ As for the moment, I have only tested it on my Windows 11 computer, I've been th
 It is written in Python and run with PyInstaller to create an .EXE file, but I have put the Python program in the scr folder in case you have a different operating system or want to test it.
 If you have several different transponders on the same satellite, you can add blocks for each transponder. 
 
-[TRSP_V1.3.bmp](https://github.com/user-attachments/files/25828040/TRSP_V1.3.bmp)
+
+![TRSP_V1 3](https://github.com/user-attachments/assets/73827bce-d69a-409c-bb3f-543ce86c08a7)
 
 
 I recommend saving all files in a separate folder and then copying them to --> C:\Users\<Username>\Gpredict\trsp (on Windows) ~~because every time you update the transponder data it will be overwritten. Or just make it read-only =)~~
