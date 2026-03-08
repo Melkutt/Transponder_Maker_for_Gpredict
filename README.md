@@ -9,9 +9,9 @@ It is written in Python and run with PyInstaller to create an .EXE file, but I h
 If you have several different transponders on the same satellite you can add new blocks for each transponder. When you save your transponder file, it is automatically saved after the NORAD ID, for example 12345.trsp
 
 
-![TRSP_V1 3](https://github.com/user-attachments/assets/73827bce-d69a-409c-bb3f-543ce86c08a7)
+![TRSP_V1 3](https://github.com/user-attachments/assets/6a15ccd2-6228-41e4-b663-30634107ea91)
 
 
 I recommend saving all files in a separate folder and then copying them to --> C:\Users\<Username>\Gpredict\trsp (on Windows) ~~because every time you update the transponder data it will be overwritten. Or just make it read-only =)~~
 
-New featur, you can make the trsp file as a read-only!
+New feature, you can make the trsp file as a read-only!
