@@ -1,5 +1,5 @@
 If you want to try compiling it yourself, you will need the following files:
-V1.3.py (or the namn you chooses)
+V1.2.py (or the namn you chooses)
 satellite-dish.png (Same here)
 logo.ico
 
